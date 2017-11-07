@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "John Doe",
+      "work": "Google",
+      "email": "john.doe@google.com",
+      "dob": "1978",
+      "address": "Prinsengracht 132",
+      "city": "Amsterdam",
+      "optedin": true
+    },
+  ],
+  "images": [
+    "img0.png",
+  ],
+  "coordinates": {
+  	"x": 35.12,
+  	"y": -21.49
+  },
+  "price": "$59,395"
+}

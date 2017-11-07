@@ -1,0 +1,13 @@
+/*--Vendor--*/
+@import "vendor/normalize";
+
+/*--Base--*/
+@import "base/variables";
+
+body {
+  padding: 0;
+  margin: 0;
+  background: $template-color;
+  width: 100%;
+  height: 100%;
+}
